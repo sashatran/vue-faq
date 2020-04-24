@@ -60,6 +60,10 @@
     {
         "question":  "Are you a designer? ",
          "answer":  "No"
+    },
+    {
+        "question":  "Are you a Indian? ",
+         "answer":  "No"
     }
 ] 
   
