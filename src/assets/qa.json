@@ -52,6 +52,14 @@
     {
         "question":  "I'm stuck with this coding issue. Can you help me?",
          "answer":  "Have you tried looking at StackOverflow and Google?"
+    },
+    {
+        "question":  "Are you a programmer / developer / coder? ",
+         "answer":  "Yes"
+    },
+    {
+        "question":  "Are you a designer? ",
+         "answer":  "No"
     }
 ] 
   
