@@ -1,0 +1,79 @@
+[
+    {
+        "question":  "How to become a good programmer / developer / software engineer? ",
+         "answer":  "Practice coding. Build projects. "
+    },
+    {
+        "question":  "I don't know where to start.",
+         "answer":  "Think about your end goal and work backwards. Interested in building websites? Then learn Web / Front end Developement. Interested in building apps? Learn mobile apps development. Not sure which one to pick? Try out all."
+    },
+    {
+        "question":  "How to master CSS?",
+         "answer":  "Practice. See Q1.",
+         "link":  "https://www.instagram.com/p/B8jmD1YAX5w/",
+         "linkText": " How did I master CSS"
+    },
+    {
+        "question":  "What does a UI / UX Developer do ?",
+         "answer":  "I code prototypes and collaborate with UX Designers & Front End Engineer.",
+         "link":  "https://www.instagram.com/p/B2zUISiATHO/",
+         "linkText": "UX Designer vs UX Developer"
+    },
+    {
+        "question":  "I can't find your Codepen / Website / Github / Twitter.",
+         "answer":  "Have you looked at the link in my instagram bio ? No, you didn't.",
+         "link":  "https://www.instagram.com/sasha.codes/",
+         "linkText": "@sasha.codes"
+    },
+    {
+        "question":  "How to become a good UI / UX Designer?",
+         "answer":  "I have no idea. I'm a UI/UX Developer, but here are some great accounts on Instagram you can follow.",
+         "suggestions": [
+            {
+                "link":  "https://www.instagram.com/uxgoodies",
+                "linkText": "@uxgoodies"
+            },
+            {
+                "link":  "https://www.instagram.com/trupsfolio",
+                "linkText": "@trupsfolio"
+            }
+         ]
+    },
+    {
+        "question":  "What do you do?",
+         "answer":  "Have you read my Instagram bio ? No, you didn't.",
+         "link":  "https://www.instagram.com/sasha.codes/",
+         "linkText": "@sasha.codes"
+    },
+    {
+        "question":  "Can you do my homework / project?",
+         "answer":  "No."
+    },
+    {
+        "question":  "I'm stuck with this coding issue. Can you help me?",
+         "answer":  "Have you tried looking at StackOverflow and Google?"
+    }
+] 
+  
+
+
+
+
+
+
+   
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
